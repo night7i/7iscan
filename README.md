@@ -1,6 +1,4 @@
-基于python3环境
-
-用于扫描网站目录文件
+基于python3环境 网站目录扫描脚本
 
 自带字典backdoor.txt / backup.txt
 
